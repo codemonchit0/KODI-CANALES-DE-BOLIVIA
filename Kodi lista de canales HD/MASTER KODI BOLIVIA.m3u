@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RED UNO LPZ" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",[COLOR Green][B]TDT[/B][/COLOR]RED UNO [COLOR Orange][B]LPZ HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="RED UNO LPZ",tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg",group-title="CANALES DE BOLIVIA",[COLOR Green][B]TDT[/B][/COLOR] RED UNO,[COLOR Orange][B]LPZ HD[/B][/COLOR]
 https://stream-03.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDleg30lCqVi9YXIS-HuLonwaw3kT4NqiSxPOhL5SMPVZ)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO SCZ" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",[COLOR Green][B]TDT[/B][/COLOR]RED UNO [COLOR Orange][B]SCZ HD[/B][/COLOR]
@@ -8,8 +8,8 @@ https://stream-02.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMAq8LLs2V4-oqr7Y_9
 #EXTINF:-1 tvg-id="RED UNO CBBA"tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",[COLOR Green][B]TDT[/B][/COLOR]RED UNO [COLOR Orange][B]CBBA HD[/B][/COLOR]
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlqULpax_4XZEgFdMklmhwjh7I1KkS4obmh0KyeKvuIA)/dm/3/x827j2y/d/live-3.m3u8
 
-#EXTINF:-1 tvg-id="UNITEL NACIONAL" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",[COLOR Red][B]TDT[/B][/COLOR]UNITEL [COLOR Orange][B]NACIONAL[/B][/COLOR]desc="canal solo disponible online de hrs 12:30 p.m a 22:59 p.m, de lunes a viernes"
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7lYHahDsksYR0FT9wawsLZGyD4x4XAZrS2AjDevstzL)/dm/3/x7wzxiw/s/live-3.m3u8
+#EXTINF:-1,tvg-id="UNITEL NACIONAL",tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg",group-title="CANALES DE BOLIVIA",tvg-wall="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg",[COLOR Red][B]TDT[/B][/COLOR]UNITEL,[COLOR Orange][B]NACIONAL[/B][/COLOR]
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5uV3EygYgSqFzuSy3yYGIVjgcHv7wlmGAocvr4GkrmH)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.ibb.co/mTf91VH/ATB-NACIONAL-FIJO-HD.jpg" group-title="CANALES DE BOLIVIA",[COLOR Green][B]TDT[/B][/COLOR]ATB [COLOR Blue][B]BOLIVIA[/B][/COLOR]
 https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOhAm22r2we3MAvDq8yhc0WpwL0oDMr8roe-OzwCvcyau)/dm/3/x84t82c/s/live-3.m3u8
