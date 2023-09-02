@@ -311,9 +311,10 @@ https://streaming.zappix.live:3062/live/animaxlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZDWTJ0/teleritmohd.jpg" group-title="MUSICALES",TELE RITMO HD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ht6Tyck/retroplushd.jpg" group-title="MUSICALES",RETRO PLUS HD
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w955235579.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1199841545.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1fXrGT/retropluslatino.jpg" group-title="MUSICALES",RETRO PLUS LATINO HD
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1094179830.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1805510092.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="MUSICALES",K-POP TV PLAY HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1497075696.m3u8
@@ -381,3 +382,5 @@ https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",+ CINE TV HD
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w8647447.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="PRIME CHANELS HD",+ RETRO PLUS CLASICOS HD
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1089831923.m3u8
