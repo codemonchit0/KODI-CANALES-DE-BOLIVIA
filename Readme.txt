@@ -1,5 +1,5 @@
 ***********************************************************
 Lista exclusiva con compatibilidad para el reproductor KODI
 ***********************************************************
-*****Fecha de actualizacion **  02 ** SEPTIEMBRE *********
+*****Fecha de actualizacion **  03 ** SEPTIEMBRE *********
 **********************************************************
