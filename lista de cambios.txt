@@ -25,3 +25,11 @@ reproductor kodi.
  RED UNO LPZ, SCZ, CBBA.
  ATB LPZ, SCZ.
  RTP LPZ.
+
+ ============ lunes 18 septiembre 2023 ==============
+ -Se agregaron mas canales con guia EPG:
+ -UNITEL BOLIVIA, epg parcial, por que no transmite 24/7.
+ -ERBOL BOLIVIA, epg completo, programacion de lunes a viernes.
+ -PTV paceñisima de television, epg completo.
+ -Se corrigieron errores en los epg ya agregados.
+
