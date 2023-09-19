@@ -13,7 +13,7 @@ https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqPSfkMUGzS7ccWumh
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w110175033.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/D0rb4tL7/ATB-BOLIVIA-HD-NEW.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvpvPIhEWMA-J1ZPJVzyJRzahKAatcwpbSeLUNeDXcsD)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvpvPIhEWMA-J1ZPJVzyJRzahKAatcwpbSeLUNeDXcsD)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/y8p4zxtz/ATB-SCZ-NEW-HD.jpg" group-title="CANALES DE BOLIVIA",ATB SCZ
 https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOgep_ZSD0vKv0j5cDHfxhPT2nwWxkDkQaXc5h0uMb0mI)/dm/3/x84t82c/s/live-3.m3u8
@@ -67,10 +67,10 @@ https://live.seo.tv.bo/live/5SEO.m3u8
 https://live.seo.tv.bo/live/7SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT SANTA CRUZ HD
-https://w8.redpat.tv:7777/play/110/19775672.m3u8
+https://w8.redpat.tv:7777/play/110/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1ddvbd/PAT-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",PAT LA PAZ HD
-https://w8.redpat.tv:7777/play/120/41546637.m3u8
+https://w8.redpat.tv:7777/play/120/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQQVzcS/XTO-HD.jpg" group-title="CANALES DE BOLIVIA",XTO HD
 https://614013e273786.streamlock.net/XtoTv/XtoTv/chunklist_w1028738237.m3u8
