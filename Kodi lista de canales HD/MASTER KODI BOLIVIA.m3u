@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDtNiSUyLPxOKBZGJqs_z0KEIX9aTDInWZ8dWhzBQ28rC)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDnunedPlII9uc4lRQcFj_qaGQUWnpH2tF8adRK2vXzcy)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://stream-04.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MBuJYC9unuAxvS9uWXJZ-qDjlwqCLtYGFpc8GyF2UG3g)/dm/3/x8o9b6o/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MBuJYC9unuAxvS9uWXJZ-qDjlwqCLtYGFpc8GyF2UG3g)/dm/3/x8o9b6o/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://stream-03.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MA99bsT6HRca33rINW0kvG9iwEvFMOk4utkTF1V8mY6Z)/dm/3/x8ob23p/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MNy5n20SRjAkq0nIdCcfFWiBTctdxQpXj5uorg4RFb6B)/dm/3/x8ob23p/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-CGwW9qjYA617XWo8p5X_-raluvJDnmDAp6NqRn_U74)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOg3kdnbjLKA-OP6Ztum4l5SKXdVq90GcT-58fH87Wyga)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOg3kdnbjLKA-OP6Ztum4l5SKXdVq90GcT-58fH87Wyga)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/mrtjjJbD/atbsczbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB SCZ
 https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlgEXD8UHAorR4MX4ivxI9e--p3-q0TxV0OAuA1Y_1w_)/dm/3/x84t82c/s/live-3.m3u8
