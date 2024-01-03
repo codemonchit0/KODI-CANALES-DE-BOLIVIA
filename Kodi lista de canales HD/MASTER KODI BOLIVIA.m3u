@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://stream-01.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDkUQBHE931CkN8j-5F9GBtPLfsL1xdNq-3aF0By7YgbC)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDmA0zMC3-TUhWUaUakx1UnniizkYCLbWsdSDMRHG4TtZ)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://stream-04.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MLfheqjnWw5KXl5ZXhrZMniBCnAa9Hg3QnG_9gRdBd5s)/dm/3/x8o9b6o/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MNRnFC81rZKocQ_WSLyZYD4aWR5oqRHnMt3ja6247tij)/dm/3/x8o9b6o/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://stream-04.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MB_LJNqoESjEKhK8nlBBm9X8Mgq0Nqte6Uj2bOOuTOd5)/dm/3/x8ob23p/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MBeFuFLqUq3crhP31n1lVO2sarB5y7sLF2pyd1JOkQUo)/dm/3/x8ob23p/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0xeeRwZeeJt7uq-sexB9d_rbxBZlfCUycOoD_ER4F7S)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOnNY11Osz0G3ri51p7wyOvt2bKbBmkhrkJSB2pvnY1yF)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOitzVY4YP3obYO1hzlCIcZNcQqaWuj9htvMLSe5oJ1ju)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ERBOL BOLIVIA" tvg-logo="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" group-title="CANALES DE BOLIVIA",ERBOL LPZ HD 
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w253302994.m3u8
