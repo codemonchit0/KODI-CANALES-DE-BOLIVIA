@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://stream-03.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDrQV9FxvKBm4f8a-nn1OTcGkq9FNlEkTQqtNWwe8uiZP)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDiXE6lCqfbDezRK3YfsqxSOwS5yjkucKAJ6OxszShJf-)/dm/3/x8ko1ix/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://stream-01.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MNHQTEqxWhJWeSHT0G2e10gMhMkt-mZhMx6KU5KeqhJv)/dm/3/x8o9b6o/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MA7hDCffLqQ0pyieO_pqbKcHDCwsgazyVOmkLsJg98c7)/dm/3/x8o9b6o/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
 https://stream-03.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MNluavCE2Z8IEnfKypNqqQ8t7MUk69dwMyk9I1LUiPwz)/dm/3/x8ob23p/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3O_0hHCJPQTh8FpUwJy62kiuHTQUQMR0olwyjTIs6JS)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_5rglzJezKDr3wKT_YMYth3V199FenxTq7O67dcBuQB)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOnzLn5i91ixST7wmGgGl-Hd7ToILgbqiSXMQsvkJAUlp)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOmHp9KVwjV429gMSu_C0GYjNhbf1x59LYP_mFigg8WTq)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/hG6r5sj0/bolivisionlapazbo.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://d3mghbm9e5zfap.cloudfront.net:443/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
