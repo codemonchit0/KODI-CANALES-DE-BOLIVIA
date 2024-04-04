@@ -109,7 +109,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w918630864.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TgMH1jk/VTV-poder-de-dios-hd.jpg" group-title="CANALES DE BOLIVIA",VTV TV HD
-https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist_w971964890.m3u8
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist_w1443782855.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgdhVKY/NEO-TV-BOLIVIA.jpg" group-title="CANALES DE BOLIVIA",NEO TV HD
 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
@@ -167,6 +167,9 @@ https://solo.disfrutaenlared.com:1936/intv/intv/chunklist_w1863549974.m3u8
 
 #EXTINF:-1 tvg-id="AYNI TV" tvg-logo="https://i.postimg.cc/2jgpYpNz/redameric01x.jpg" group-title="CANALES DE BOLIVIA",RED AMERICA HD
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
+
+#EXTINF:-1 tvg-id="AYNI TV" tvg-logo="https://i.postimg.cc/LXzt1qSF/palenque-tv-hd.jpg" group-title="CANALES DE BOLIVIA",PALENQUE TV HD
+https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO BOLIVIA LPZ HD
 https://www.dailymotion.com/video/x8vzlqi
