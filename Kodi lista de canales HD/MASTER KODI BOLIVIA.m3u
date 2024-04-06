@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-c.cf.dmcdn.net/sec2(2qn-3H2sG8mkxEat07tCMQMpW9sQRNJeU7wiipf-TWlgON9wUvY5TSFB1xMs467XDihF6RHFQt2dOZ3BunNwmVAEpgbU1Y6M7S2Fh5hlkzY)/dm/3/x8vzlqi/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(-OK--5yL2R8KV2ZMB7oQ6titRVOwrSAjhHpVDP8DbYY3NNcbjt8V4_ScZt_MIM0ay4MOXvJBYKaabTWadJe8tQ3Qghzo2noODNcchdevoEU)/dm/3/x8vzlqi/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live-b.cf.dmcdn.net/sec2(9g6OvijKeHmgbFZN-OG9HkPcFJTQaPdPaWsbTJ4VguuO3FZQGjaankJMx5uXdJNh1JdSpJ1sbgAkOom2nvofYG1nBBREGweEv1_pYky1iuo)/dm/3/x8vufvw/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(bBn-p09Bz8rLU0Cw2tWKUYIn0LkvUDZZRJkLfB8kz46xl7z3h_qDJVBgMhcG6lN2BSmK09QkqWLehxx7kRyX9uRuZHO1AkSLvRw-uSD65dQ)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
 https://live-c.cf.dmcdn.net/sec2(eMWDSFR4lDYv2Nb0IiRy03hmOoQdNNdA6EgflXKDYsCMCDtnthtJ2CTqsuVrYhqB81XehecJYL1RsfpneRLTem2TGJQwYdPiYOKpZpggXAM)/dm/3/x8ra7t7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl14CO_5_-1hQH3Pn-E6EHmkPA5aq5_5jhkslMMm99E9B)/dm/3/x7wzxiw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(DjeScro8aEe43PIKfx4sEgnJ4TyYNNC218OHYrtcgcAX3SNUBJHavBQZWZUrGtgtBbp1gUQ7AEEw0r5bILMZf6OQRBgLwSupkV_NuKbVri8)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
 https://live-c.cf.dmcdn.net/sec2(exSjFqX1o3iB7RxEJN-zut8o4o00XO6lxuIThuGTa7ME32W0QniXfwTfYYxJaXOTGGOzl38oiuI_B5hqHpvY-gcUI7mjx6YHEKrYpPnMZHc)/dm/3/x84eirw/s/live-3.m3u8
