@@ -4,16 +4,16 @@
 https://live-b.cf.dmcdn.net/sec2(oLcggeMsgvRNPzaPMoPQJe3FgW-x8QUXTk9tZgPe8Xgxp0cZVDKMCFIPyVxUUuFSmrNwrMzrAeB3yzMZ2npLuA-slD3q8JBqa2E2-n4IHww)/dm/3/x8vzlqi/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live-b.cf.dmcdn.net/sec2(dH3tsiDyp9snvEme2f8p6yQlPO8gJEzTj6lTzGVAh90sO633_zsmSmf-JwFqfI-ZKBj_pPIm5BLKpYQ3vZSgx2yLFj6G2kXZfWs5njpCMbo)/dm/3/x8vufvw/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(Lergfd375MLOX0zFue4A-_OFlxvEFppvfefcoDh_s0riwNja9twY5TNtLmz0EomtOc939tUeS0Qj87DONWxDWCLUHng0K9uKuaenZ8aZrT0)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
 https://live-c.cf.dmcdn.net/sec2(N0u3zl7z464Mkoz126xsOw7Q-NsrdRAZp7WQn4uSdxwUX1UfhHxZOuZ868VRlDVDEDG2klfkpYBlBt9n00uxQhLH_ZjflbKZ5pLyPHZApFM)/dm/3/x8ra7t7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://live-c.cf.dmcdn.net/sec2(2AdjAyq-kUb5rraqr3YbfAWikPXhkFC7-A9LBdWWngQ0Gz2jsyzsoae52Ew_zv3Lt_BnMsOT1ARrDi708VNY4n4Fo-EpMY8NCK0Td81M5SU)/dm/3/x7wzxiw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(un1gDz-k7sdBKiQK9qmAZZjkDCA0Q3AKvCkLl7K2U6rCdn4c-TOIVoApH11mPVKU0POxSEXCoEY3MEV_uxEmoxiXLW7mQYZ6R5SEV89eWxk)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-c.cf.dmcdn.net/sec2(V45kcuz4DRrLiSGaSI30GZ0smGkiltEN44izjTHqHPTiY_mMvRF1qtGDCOVrN6WAxtyC-TD-elbSBeza_Mja3osYC9o6_2NiOUHp9x5VKys)/dm/3/x84eirw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(TCh_bbltXoOi3dN_HukQ2-PW87g5xMhx2CxFeKtTAS0n7ThUj-uCapoIglJII3Z0OXdcOVSZ-UmgYW8yORLzSouwxfJZPcLGL7KpGue8aY4)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
@@ -124,7 +124,7 @@ https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
 https://master.tucableip.com/cristaltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h24smyF/TELE-ESTRELLA-HD.jpg" group-title="CANALES DE BOLIVIA",TELE ESTRELLA TV HD
-https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/chunklist_w152642151.m3u8
+https://stmvideo3.livecastv.com:443/teleestrellahd/teleestrellahd/chunklist_w962810914.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk1WWfKP/SOLIDARIATVBOLIVIA-HD.jpg" group-title="CANALES DE BOLIVIA",SOLIDARIA TV BOLIVIA HD
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
