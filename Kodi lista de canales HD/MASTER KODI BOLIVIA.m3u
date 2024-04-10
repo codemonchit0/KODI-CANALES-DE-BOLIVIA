@@ -1,34 +1,34 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-c.cf.dmcdn.net/sec2(eECdTckkDqqze2l9DBTlAaRB_LWaaLh8X4hzGo6Cf6j6vhKOZE6_s9RAbm_8FXNPaOlbo5JwmhsO0j2R1BJ3Y8q7LhZ54qLfy1e5jieUBJ4)/dm/3/x8vzlqi/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(2BHvqwztDO7mfdSDmHhNwDiDGuwxQWGQxXOQAPEFioIZnvmmVolzZUhjerWlzARYujauIz6N_0cyGR2HG5E-VdRr42Id8fYwGQkEBraD9Q4)/dm/3/x8vzlqi/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live-c.cf.dmcdn.net/sec2(eECdTckkDqqze2l9DBTlAaRB_LWaaLh8X4hzGo6Cf6j6vhKOZE6_s9RAbm_8FXNPaOlbo5JwmhsO0j2R1BJ3Y8q7LhZ54qLfy1e5jieUBJ4)/dm/3/x8vzlqi/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(TKGx_5SCz5fy4P1EDQERqw78d0dwGMWXNBVAst_l8cGlaIFJ8l_Rlr3_pVS2E8301jtocwlyvPwazZk2721yyPaarhaTlDuQu55rLx6qLdc)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://live-c.cf.dmcdn.net/sec2(bIr_yZiG-glUXnyjYN0kTpXJLN5t3-iY3GtBF4XvcsRuQprAQrpyQv4Y5T5UypiOKpok9ojvhm3Zii1y7gTOsgqAf75h6h_bl0oU2MaeUe0)/dm/3/x8ra7t7/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(UIqDjHKMUx26PBvKLMuU9bz3RrmPEZgZ9j0tUb-OVlSqTomHh7SlwfkJA2HFAyg6sSQJEmqNzD6M0hSbZxq_RSXJIsgvt2jdB3a12x2eiiM)/dm/3/x8ra7t7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://live-c.cf.dmcdn.net/sec2(MEsIUNyXN7QJyRRTVtK4B6w5KxO8tVoIB7s6t4ahcHxCkHGL1oZDQOsVxEoclvzMxzj7y8vHKQQMZBklLYewzeDkxcYOvGSmQqYYkwGBX_M)/dm/3/x7wzxiw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(vdQQNyZY8eTdJP3P-mdKJw-0yuLMk3aK8KvfPHYspA4B3T9ErKaxAtI16IMWiT4-I2Ue3j1aqEcm9_NXyPV8rVarajnAcmxo7XzMSHZq2Qs)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-b.cf.dmcdn.net/sec2(feS-yG1lP_RwhmqYQqr2NVtAyNSlK4T30y8fFSL5xcDKVCzb3GqKSqnU8SeA1oPyRGLUeWqNahPH9YoQNW_nJc86Ndhlwsm1-DV2rxNh0Rg)/dm/3/x84eirw/s/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(QBITQK-oaXJvQ6rccPD66GQ0pxFh53WVWdkjbdeqdPr8-ghNJboE8Vp-sgTOa8U8a6wqhvuglsFhDT6wYjBIfIMYHFEozoONtQSd9MPJdHs)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com:443/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/KzfkdGXH/bollpz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ SD
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com:443/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com:443/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/4dsw6xbL/bol-Scz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ SD
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com:443/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.ibb.co/mC3q3wm/RTP-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
