@@ -1,34 +1,34 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-c.cf.dmcdn.net/sec2(m83l-uXAO-NKrxQv4tBfp8SeSAiLI1WFSBKP8NLsKUBKQXJhLHfbhMXE-yWPanchODa_Pbr1sO_Kuw1HVinGQrhLI0CszjJhfZ2gY15ZABE)/dm/3/x8vzlqi/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(0kf_5CcWAQEbfomRTSflsKs15NahWnPSPyikJwjC2A0bPVKFnnlYAUy5t1i0gP3l__GFnNW6mf2YSYDS2f2PpmdPPegORRqO6UUuIoY-f1Y)/dm/3/x8vzlqi/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live-c.cf.dmcdn.net/sec2(xb7lW8_eTV9u5dETUPjVPh_Nrvo-3s_pTvPguPStsSKBq96OmnAVECp92amgTVGrOyGYGQkj1sXv6vhRdh4y56TpaIOwmw_x-tbXL4UC7PI)/dm/3/x8vufvw/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(m30_0cvcD7vAHBRSUqBc_R4XnDsGg6UCDuTl9nxXQURgApeQlwZxs0kIbR9lYG8-vVOeeWKS7lNWjVc_JuIqbcAMGIMZiIMYBsrE3Q6r-HY)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://live-b.cf.dmcdn.net/sec2(D06wTC1-EcEDMcgWZeQdLFWdRtPhv2GG5G6uyUmXmu17jKHzXQ5FdTNteBy3nxwb7Wb6_ZzQR4Zh4MFPCc0JHmVreRTP5yrUW7wKyM5RMcQ)/dm/3/x8ra7t7/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(SKaGVSSMp06Di0fVu6mO7gx6Sqo9t3tWfVnD2EzgcXdNHkIY_Be9OVIkELs7cbSHyLDX_pXuCFkfKFEumpTaoXLv3Lg8NnmpXJVVUusPJQA)/dm/3/x8ra7t7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://live-c.cf.dmcdn.net/sec2(5bJ3EONQo0OzMDdECcaI45W6IFUGUvcQYKufBAjvsSBj2g54sc-BZU5FiMIirqkiWGpPwImoLwvjLdQ9UoDM7KPpeTmB8VbWb66B3IU5PU8)/dm/3/x7wzxiw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(bdBcK5tWHfAjtjaEqZR8Ix8-aKbihqf8Zd9T3mBJ86R1RA9NAutJLCy9daRB3C73AYQGapVobFtsFv6dHJbAWDiojnNYucB2XeIOwJQ3wT0)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-c.cf.dmcdn.net/sec2(020uGYQU_jYRrwLcWkD6YiWBHuxbmnE02quDe_vAdEWnzGLQrnmtz6qxiGOyqZf1F7NQKaL_KxX3ClD5uw8AkgvcRIziz8QlBM4glMcz4Hw)/dm/3/x84eirw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(_dJRG9TBEHhc8NUF5pcgbA7o7kul_g65C2rDA4aR6ECelkwkHnLwhoyZuS3SiLmu9zLeHGO2_WAD4b0lA6bzZW2kLu4HpMslMYckKzeQvzg)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com:443/chunklist_w2038207206_b3096000.m3u8
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/KzfkdGXH/bollpz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ SD
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com:443/chunklist_w2038207206_b461000.m3u8
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ HD
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com:443/chunklist_w1905827259_b3096000.m3u8
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA"tvg-logo="https://i.postimg.cc/4dsw6xbL/bol-Scz-Sd02.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION SCZ SD
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com:443/chunklist_w1905827259_b461000.m3u8
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.ibb.co/mC3q3wm/RTP-LA-PAZ-HD.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
