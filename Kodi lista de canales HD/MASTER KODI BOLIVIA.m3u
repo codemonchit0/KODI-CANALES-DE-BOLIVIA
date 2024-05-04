@@ -133,10 +133,10 @@ https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 https://master.tucableip.com//dtvsc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="CANALES DE BOLIVIA",GOGOPLAY TV HD
-https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
+https://ssh101-fl.bozztv.com:443/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/fTkBGCpd/Gogo-Play-SDYes.jpg" group-title="CANALES DE BOLIVIA",GOGOPLAY TV SD
-https://rpn3.bozztv.com/ssh101/ssh101/gogoplaysd/chunks.m3u8
+https://ssh101-fl.bozztv.com/ssh101/gogoplay/index.m3u8
 
 #EXTINF:-1 tvg-id="RED CCTV" tvg-logo="https://i.postimg.cc/P5JqpHF5/HD-cctvboliviacanalhd.jpg" group-title="CANALES DE BOLIVIA",RED CCTV HD
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w965220777.m3u8
@@ -310,7 +310,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 https://g5.proy-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T16tVjFT/TVP-ARGENTINA.jpg" group-title="DOCUMENTALES Y NOTICIAS",TVP ARGENTINA HD
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vd2hpm7/EWNT-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",EWTN HD
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
@@ -334,7 +334,7 @@ https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="ANIME Y SERIES",GOGOPLAY TV HD
-https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/gogoplay/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mchcCP/PLANETA-KIDS-HD.jpg" group-title="ANIME Y SERIES",PLANETA TV KIDS HD
 https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1512543000.m3u8
