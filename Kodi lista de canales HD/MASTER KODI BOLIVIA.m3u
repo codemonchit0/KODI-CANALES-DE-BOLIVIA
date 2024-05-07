@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-c.cf.dmcdn.net/sec2(hgHpRPG7DhygDdEaVxqBRys6j8nr5GezdZ8mnHjWtVDLux0H3RFfWfjVYtEYochn8zLQw5Z60YLauUHnSYdIo8azWXMKUPXh7vdhKbJp46o)/dm/3/x8vzlqi/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(K-HihkyncOKDuHkmT1JBWzka3CUDZsUZHEalKP4BcX63NoEak3V5X-bB78I7N4S3n5-loZwgytgykJpqiZtuJrE5RjxFHeBJ8y_9b6jLU3E)/dm/3/x8vzlqi/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
-https://live-b.cf.dmcdn.net/sec2(2bjAqcI0NaDe3WamHN--nY4Ab32WTpvyckyhOHQcz-iDOJIflibdjKSH3kY6NoEhH4SmSXVNg30zlst8xR-g0hct4rc6pKRywYHYwTuub2c)/dm/3/x8vufvw/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(6o_Wj9EBPY1GQXYtjcINIv8zowVywb_gu82TTtbPidgF8UXx667uUKUxVWvQyEvzq07aBji_UxT2A7OirF4ksAD98kCexrv5EhEcP9tCrCw)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://live-b.cf.dmcdn.net/sec2(NfIS95AQtNUZq4Wrr-VVeHPOgkjoHugANjR4qYIBdOoQtYpENmg5b2vx89A6TmppxVEwiLy4h51XCTP0YO5E5xTB-Sp9zHT5R2nJF3fQKyk)/dm/3/x8ra7t7/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(rB_de7rpmkk0GTOkHScxPSozgU1Vq3nGWrSBfpP96MRpeXwa_J0_o_K9UetPZeQaAbwiLHXK28S3uuXkCB6NfdmKpywO5Niyeic_GFmoH6s)/dm/3/x8ra7t7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://live-b.cf.dmcdn.net/sec2(0JNQO-E_A9VsIUdzVgBU9PSwNndrCcxQAoAIXdg2SscekdQpnKgLUMHtNmQPIKHA_MS_cD4t_Vraosk14Q4MknjFe8Z8tA33UFsNXWUj-FU)/dm/3/x7wzxiw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(Qpx9tS2Ok5Yf4P9GTS_T2ECiUEKXBVyHUB37y-8gM1uNX6JjPFDpF39_uJ6DKr2Xw2IR_51Ty63aixlkWp_9QpGJsQNvbudGR6Rudk6BwHI)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-c.cf.dmcdn.net/sec2(Oakg-NMvfnAtcIrzITCuAOhplLgH37Wo3ARvOIzfXdpZXIYcQdwkqXm5gb_qzCFZNIgX9MiE0UT-R-PcWcdxesIpCML3d-gcWbNqvFrlq6w)/dm/3/x84eirw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(mV2OSREB9JrFcvfbRvX4qkNRDnHdKjOEZYN1s1edrsgyfGQBYCGp2PmARW_u31nGghisgETYWIj1vjHALySJHSHPOChyVnnoc7Rb5LWq1GE)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
