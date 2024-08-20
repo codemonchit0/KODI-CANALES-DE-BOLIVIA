@@ -310,3 +310,8 @@ F10 bolivia, TVU UMSA LA PAZ, MEGAVISION DIGITAL SANTA CRUZ.
 
 -Se actualizaron enlaces de los canales locales de bolivia.
 -Se corrigieron enlaces de imagenes.
+
+========= martes 20 agosto 2024 ==============
+
+-Se actualizaron los enlaces de los canales retromagico y magickids.
+-Se agrego el canal nuevo local de bolivia  bolivia mix.
