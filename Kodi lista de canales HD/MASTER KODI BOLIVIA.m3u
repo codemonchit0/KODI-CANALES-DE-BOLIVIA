@@ -13,7 +13,7 @@ https://live.eu-north-1b.cf.dmcdn.net/sec2(Ok1b4yYKGTEEmw5R1u4m7J5XBYLsUYRevDpaE
 https://csc-axs-edge01.sensa.com.ar/live/eds/UnitelLPZ/live_dash_cld/UnitelLPZ.mpd
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/t4DRCMJz/Da-T-b02.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YvA8TUvHS5xSk5EZ1ahwvyDVdaIz3IoIXFUS3L-XqjS/m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(u9pRL3xhCgRn6k3-mCCw4sAXZnjCQ2W-XNx_j5_BatoN-h7k-_8Ler5E59OB6OcUBNPf4tx4Xt5zMVrsyDGww6ulqCBGulIrheqppzuQLOtGezv0t2i-lOGGSfovep41)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
@@ -166,16 +166,16 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5k6N9Sg/DW-ESPA-OL-FHD-02.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ESPAÑOL FHD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMX2rJd/DW-ESPA-OL-HD-01.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ESPAÑOL HD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MKRLkC/DW-EN-VIVO-SD.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ESPAÑOL SD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhTW6yd/DW-INGLES-HD.jpg" group-title="NOTICIAS Y DOCUMENTALES",DW ENGLISH HD
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yB0LtpH/RT-ESPA-OL-FHD-03.jpg" group-title="NOTICIAS Y DOCUMENTALES",RT NOTICIAS FHD
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
